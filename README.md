@@ -1,1 +1,3 @@
 # Codewar-Code
+
+## JavaScript Part
