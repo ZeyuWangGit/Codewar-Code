@@ -1,4 +1,4 @@
 # Codewar-Code
 
 ## JavaScript Part
-Some useful part of javascript code from codewar.
+Some useful parts of javascript codes from codewar.
